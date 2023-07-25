@@ -1,0 +1,84 @@
+body{
+    color: white;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color:darkgreen;
+
+}
+h3{
+    background-color:red ;
+    height: 24px;
+    width:44px;
+    margin-left:-260px ;
+    color: white;
+    padding: 2PX;
+    border-radius: 10PX;
+    
+}
+#fuel{
+    height:19px;
+    width:19px;
+    margin-left: -260px;
+}
+.icons{
+    height: 150px;
+    width: 100%;
+   
+}
+.mile{
+    margin-right: -98px;
+}
+.fuel{
+    margin-right: -54px;
+}
+.safety{
+    margin-right: -55px;
+}
+h4{
+    margin-left: -160px;
+}
+.red{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+.pick{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-left: -200px;
+    
+}
+#r{
+    background-color:blue;
+}
+#a{
+    background-color:grey;
+}
+#b{
+    background-color: black;
+}
+#price{
+    background-color: darkgreen;
+    /* margin-right: -145px; */
+margin: -35px 25px;
+   width: 65px;
+
+}
+#str{
+    margin-left: px;
+}
+.final{
+    background-color: palevioletred;
+    margin-top: 60px;
+    border-radius: 10px;
+    width: 175px;
+    height: 40px;
+}
